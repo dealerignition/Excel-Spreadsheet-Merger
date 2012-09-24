@@ -1,0 +1,18 @@
+
+starting foxGUIb 1.0.0. 2012-09-20 10:39:01 -0400
+
+starting foxGUIb 1.0.0. 2012-09-20 10:40:17 -0400
+
+starting foxGUIb 1.0.0. 2012-09-20 10:40:35 -0400
+
+starting foxGUIb 1.0.0. 2012-09-20 10:40:51 -0400
+	FXRuby version: 1.6.25
+	FOX version: 1.6.46
+
+exited normally
+
+starting foxGUIb 1.0.0. 2012-09-20 11:04:53 -0400
+	FXRuby version: 1.6.25
+	FOX version: 1.6.46
+
+exited normally
