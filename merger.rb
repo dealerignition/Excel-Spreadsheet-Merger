@@ -67,11 +67,8 @@ end
         end
       end
       if not dealers[row["phone"]]["source_list"].to_s.empty?
-        if first_csv == csv
-          puts dealers[row["phone"]]["source_list"] 
+        if first_csv == csv 
           dealers[row["phone"]]["source_list"] += ",#{(first_provider != "i" ? first_provider : row["sources"])}"
-          puts dealers[row["phone"]]["source_list"]
-          Readline.readline();
         else
           dealers[row["phone"]]["source_list"] += ",#{(second_provider != "i" ? second_provider : row["sources"])}"
         end
