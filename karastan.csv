@@ -1,4 +1,4 @@
-name,address,city,postal,state,phone,websites,owners,primary_email,contacts,other_emails
+name,address,city,postal,state,phone,website,owner,primary_email,contacts,other_emails
 RC Willey,2301 S. 300 W.,Salt Lake City,84165,UT,(801) 493-4252,rcwilley.com,,,"Steve Hendricks,Steve Hendricks,Steve Hendricks",steve.hendricks@rcwilley.com
 CARPET EXCHANGE,1133 S. PLATTE RIVER DRIVE,DENVER,80223,CO,(303) 744-3300,www.carpetexchange.com,Bruce Odette,bodette@carpetexchange.com,"Bruce Odette,Chuck Sari,Bruce Odette",csari@carpetexchange.com
 Peek's Carpet & Tile,3933 N. Central Expressway,Plano,75023,TX,(972) 529-6677,www.peekscarpet.com,,,"Bill Ferron,Murphy Dykes,Todd",murphyd@peekscarpet.com
